@@ -1,0 +1,353 @@
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\생산 가동 현황 모니터링 프로그램.exe.config
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\생산 가동 현황 모니터링 프로그램.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\MetroFramework.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.LoginForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.MainForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.FindID.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.FindPW.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.JoinForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.UpdateForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\생산 가동 현황 모니터링 프로그램.exe.config
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\생산 가동 현황 모니터링 프로그램.pdb
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\MetroFramework.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\MySql.Data.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\Google.Protobuf.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\bin\Debug\Renci.SshNet.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.csprojAssemblyReference.cache
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.FindID.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.FindPW.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.JoinForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.LoginForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.MainForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.Properties.Resources.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.UpdateForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.GenerateResource.cache
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CopyComplete
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.pdb
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectDeleteForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectUpdateForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.ImageProcessing.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.Operation.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.ImageProcessing.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.Operation.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectDeleteForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectUpdateForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteCheckForm.resources
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.csprojAssemblyReference.cache
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteCheckForm.resources
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteForm.resources
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.FindID.resources
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.FindPW.resources
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.ImageProcessing.resources
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.JoinForm.resources
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.LoginForm.resources
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.MainForm.resources
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.Operation.resources
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.Properties.Resources.resources
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectDeleteForm.resources
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectForm.resources
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectUpdateForm.resources
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.UpdateForm.resources
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.GenerateResource.cache
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.pdb
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\bin\Debug\생산 가동 현황 모니터링 프로그램.exe.config
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\bin\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\bin\Debug\생산 가동 현황 모니터링 프로그램.pdb
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\bin\Debug\CircularProgressBar.dll
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\bin\Debug\MetroFramework.dll
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\bin\Debug\WinFormAnimation.dll
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\bin\Debug\Google.Protobuf.dll
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\bin\Debug\Renci.SshNet.dll
+C:\Users\rnjst\Desktop\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산 가동 현황 모니터링 프로그램.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteCheckForm.resources
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteForm.resources
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.FindID.resources
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.FindPW.resources
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.ImageProcessing.resources
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.JoinForm.resources
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.LoginForm.resources
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.MainForm.resources
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.Operation.resources
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectDeleteForm.resources
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectForm.resources
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectUpdateForm.resources
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.UpdateForm.resources
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\kccistc\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산 가동 현황 모니터링 프로그램.pdb
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\bin\Debug\생산 가동 현황 모니터링 프로그램.exe.config
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\bin\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\bin\Debug\생산 가동 현황 모니터링 프로그램.pdb
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\bin\Debug\CircularProgressBar.dll
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\bin\Debug\MetroFramework.dll
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\bin\Debug\WinFormAnimation.dll
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\bin\Debug\Google.Protobuf.dll
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\bin\Debug\Renci.SshNet.dll
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산 가동 현황 모니터링 프로그램.csprojAssemblyReference.cache
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteCheckForm.resources
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteForm.resources
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.FindID.resources
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.FindPW.resources
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.ImageProcessing.resources
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.JoinForm.resources
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.LoginForm.resources
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.MainForm.resources
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.Operation.resources
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.Properties.Resources.resources
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectDeleteForm.resources
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectForm.resources
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectUpdateForm.resources
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.UpdateForm.resources
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.GenerateResource.cache
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CopyComplete
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산 가동 현황 모니터링 프로그램.pdb
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.Performance.resources
+C:\Users\rnjst\OneDrive\Documents\과제\C#\생산 가동 현황 모니터링 프로그램(수정중.1211)\obj\Debug\생산_가동_현황_모니터링_프로그램.Production.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산 가동 현황 모니터링 프로그램.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteCheckForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.FindID.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.FindPW.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.ImageProcessing.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.JoinForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.LoginForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.MainForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.Operation.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.Performance.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.Production.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectDeleteForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectUpdateForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.UpdateForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산 가동 현황 모니터링 프로그램.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\생산 가동 현황 모니터링 프로그램.exe.config
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\생산 가동 현황 모니터링 프로그램.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\CircularProgressBar.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\MetroFramework.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\WinFormAnimation.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.ComMonitoring.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.RandomValue.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\생산 가동 현황 모니터링 프로그램.exe.config
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\생산 가동 현황 모니터링 프로그램.pdb
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\CircularProgressBar.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\MetroFramework.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\MySql.Data.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\WinFormAnimation.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\Google.Protobuf.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\Renci.SshNet.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산 가동 현황 모니터링 프로그램.csprojAssemblyReference.cache
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.ComMonitoring.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteCheckForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.FindID.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.FindPW.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.ImageProcessing.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.JoinForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.LoginForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.MainForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.Operation.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.Performance.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.Production.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.Properties.Resources.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.RandomValue.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectDeleteForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectUpdateForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.UpdateForm.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.GenerateResource.cache
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CopyComplete
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산 가동 현황 모니터링 프로그램.pdb
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\dll\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\dll\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.pdb
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.xml
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\dll\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\dll\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.xml
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.CommutingTime.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.GotoWork.resources
+C:\Users\rnjst\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1215)\obj\Debug\생산_가동_현황_모니터링_프로그램.LeaveWork.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\dll\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\dll\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\생산 가동 현황 모니터링 프로그램.exe.config
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\생산 가동 현황 모니터링 프로그램.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\CircularProgressBar.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\MetroFramework.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\OpenCvSharp.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\WinFormAnimation.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\OpenCvSharp.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\OpenCvSharp.xml
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산 가동 현황 모니터링 프로그램.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.ComMonitoring.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.CommutingTime.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteCheckForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.FindID.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.FindPW.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.GotoWork.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.ImageProcessing.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.JoinForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.LeaveWork.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.LoginForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.MainForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.Operation.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.Performance.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.Production.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.RandomValue.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectDeleteForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectUpdateForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.UpdateForm.resources
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산 가동 현황 모니터링 프로그램.pdb
+C:\Users\kccistc\OneDrive\Documents\권순석\생산 가동 현황 모니터링 프로그램(수정중.1218)\obj\Debug\생산_가동_현황_모니터링_프로그램.CheckForm.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\dll\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\dll\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\생산 가동 현황 모니터링 프로그램.exe.config
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\생산 가동 현황 모니터링 프로그램.pdb
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\CircularProgressBar.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\MetroFramework.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\MySql.Data.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\OpenCvSharp.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\WinFormAnimation.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\Google.Protobuf.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\Renci.SshNet.dll
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\OpenCvSharp.pdb
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\OpenCvSharp.xml
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.CheckForm.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.ComMonitoring.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.CommutingTime.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteCheckForm.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.DeleteForm.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.FindID.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.FindPW.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.GotoWork.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.ImageProcessing.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.JoinForm.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.LeaveWork.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.LoginForm.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.MainForm.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.Operation.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.Performance.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.Production.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.Properties.Resources.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.RandomValue.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectDeleteForm.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectForm.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.SelectUpdateForm.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산_가동_현황_모니터링_프로그램.UpdateForm.resources
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.csproj.CopyComplete
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.exe
+C:\Users\user\OneDrive\Documents\C# 프로그래밍\생산 가동 현황 모니터링 프로그램\obj\Debug\생산 가동 현황 모니터링 프로그램.pdb
